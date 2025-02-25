@@ -2,7 +2,7 @@
 /*
 Plugin Name: Location Based Product
 Description: A plugin to select a location and filter products based on the chosen location.
-Version: 1.5
+Version: 1.0
 Author: Suhel Shaikh
 */
 
